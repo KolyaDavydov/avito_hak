@@ -1,1 +1,7 @@
 .DS_Store
+data/train_data/part*
+data/*.csv
+data/*.parquet
+data/*.pq
+data/*.py
+avito_env
